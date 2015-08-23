@@ -1,5 +1,5 @@
 # redux-effects-fetch 
-(DEPRECATED: official project is here (https://github.com/redux-effects/redux-effects-fetch)
+(DEPRECATED: official project is here [redux-effects-fetch](https://github.com/redux-effects/redux-effects-fetch)
 
 Declarative data fetching for [redux](https://github.com/rackt/redux)
 
